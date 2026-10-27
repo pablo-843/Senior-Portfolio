@@ -1,19 +1,23 @@
 # Site settings
-# These are used to personalize your new site.
-title: Mary Lou Algorithm # your name here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br /> elements if you don't need line breaks)
+# These are used to personalize your website.
+
+title: Pablo Aguilar
+logo: "/images/logo.png?raw=true"
+
+description: |
   CSCI 496: Senior Portfolio<br />
-  In partial fulfillment of the requirements for the degree of
-  Bachelor of Science in Computer-Science (class of 2040)
+  Charleston Southern University<br />
+  Bachelor of Science in Applied Computing<br />
+  Cybersecurity Concentration<br />
+  Expected Graduation: May 2027
   <br /><br />
   <a href="https://example.com/resume">View My Resume</a>
   <br /><br />
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
-repository: "csci-csu/csci-portfolio"
-github_username:  username # update with your username
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  <a href="https://www.linkedin.com/">View My LinkedIn Profile</a>
 
-# Build setting
+repository: "pablo-843/Senior-Portfolio"
+github_username: pablo-843
+
+# Build settings
 theme: jekyll-theme-minimal
 
