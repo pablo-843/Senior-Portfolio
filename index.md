@@ -15,3 +15,10 @@ I used Python to clean daily weather observations from 1997 through 2025 and cha
 ### [ClinVar Variant Tracker | CSCI 495](project-clinvar.html)
 
 Our team built a Django and PostgreSQL app that helps reviewers match genetic variants to ClinVar records and compare what was reported across releases.
+
+
+## Ethics Papers
+
+### [Ethical Responsibility](pdf/ethical-responsibility.pdf)
+
+- **Class: Database Management**
